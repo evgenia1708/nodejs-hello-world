@@ -1,5 +1,4 @@
-# nodejs-hello-world
-testestet
+# nodejs-hello-world - test
 **A simple and stateless "Hello World" Application written in Node.js used to illustrate OpenShift functionality**
 
 In this lesson, we will ocver the following topics:
